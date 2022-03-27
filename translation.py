@@ -4,11 +4,11 @@ Ledy APİ: Məni istifadə etdiyin üçün təşəkkürlər ❣️
 my.telegram.org saytından APP-ID əldə etmək üçün Telegram Telefon Nömrənizi daxil edin.
 nümünə: `+99450*******`
 /start yenidən daxil etmək üçün istənilən mərhələdə başlayın""""
-    AFTER_RECVD_CODE_TEXT = """I see!
+    AFTER_RECVD_CODE_TEXT = """baxıram!
 indi  zəhmət  olmasa Telegramdan aldığınız Telegram kodunu göndərin  ! 
-this code is only used for the purpose of getting the APP ID from my.telegram.org
-if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/LEGEND-AI/API-SCRAPPER and clicking on the Pink Button
+bu kodla yalnız my.telegram.com adresinden APİ ID ALMAQ ÜÇUNDUR.
+
+
 
 /start yenidən daxil etmək üçün istənilən mərhələdə başlayın""""
 
