@@ -1,16 +1,17 @@
 class Translation(object):
     START_TEXT = """Salam, Ledy APİ'ə xoş gəldin!
-Ledy APİ: Məni istifadə etdiyin üçün təşəkkürlər ❣️
+Ledy APİ: Məni istifadə etdiyin üçün təşəkkürlər 
 my.telegram.org saytından APP-ID əldə etmək üçün Telegram Telefon Nömrənizi daxil edin.
-nümünə: `+99450*******`
-/start yenidən daxil etmək üçün istənilən mərhələdə başlayın""""
+nümünə: `+99450..`
+/start yenidən daxil etmək üçün istənilən mərhələdə başlayın"""
     AFTER_RECVD_CODE_TEXT = """baxıram!
 indi  zəhmət  olmasa Telegramdan aldığınız Telegram kodunu göndərin  ! 
 bu kodla yalnız my.telegram.com adresinden APİ ID ALMAQ ÜÇUNDUR.
 
 
 
-/start yenidən daxil etmək üçün istənilən mərhələdə başlayın""""
+
+    
 
     BEFORE_SUCC_LOGIN = "kod alındı. Veb səhifə silinir ..."
 
