@@ -1,23 +1,21 @@
 class Translation(object):
-    START_TEXT = """Hi Welcome To Api Scrapping Bot!
-Thanks To Using Me
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
+    START_TEXT = """Selamat Datang di Api Scrapping Bot!
+Terima Kasih Telah Menggunakan Saya
+Masukkan Nomor Telepon Telegram Anda, untuk mendapatkan APP ID Dan API HASH dari my.telegram.org
 
-/start at any stage to re-enter your details"""
+/start pada tahap apa pun untuk memasukkan kembali detail Anda""""""
     AFTER_RECVD_CODE_TEXT = """I see!
-now please send the Telegram code that you received from Telegram!
-this code is only used for the purpose of getting the APP ID from my.telegram.org
-if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/LEGEND-AI/API-SCRAPPER and clicking on the Pink Button
+sekarang silakan kirim kode Telegram yang Anda terima dari Telegram!
+kode ini hanya digunakan untuk tujuan mendapatkan API ID Dan API HASH dari my.telegram.org
+jika Anda tidak mempercayai pengembang bot ini, bisa isi sendiri di my.telegram.org
 
-/start at any stage to re-enter your details"""
+/start pada tahap apa pun untuk memasukkan kembali detail Anda"""
 
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
 
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@LegendBoy_XD"
+    ERRED_PAGE = "Gagal mendapatkan id aplikasi. \n\n@GojoProject"
 
-    CANCELLED_MESG = "Bye! Please re /start the bot conversation"
+    CANCELLED_MESG = "Selamat tinggal! Silahkan ulang /start percakapan baru"
 
-    IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
-
-    IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
+    IN_VALID_CODE_PVDED = "Maaf, kode Telegram Web-Login yang valid"
+    IN_VALID_PHNO_PVDED = "Maaf, sepertinya bukan telepon yang valid"
