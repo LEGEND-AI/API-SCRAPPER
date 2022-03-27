@@ -18,6 +18,6 @@ bu kodla yalnız my.telegram.com adresinden APİ ID ALMAQ ÜÇUNDUR.
 
     CANCELLED_MESG = "sağol! /start lutfən bot'u yənidən başladın!"
 
-    IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
+    IN_VALID_CODE_PVDED = "üzr istəyirik, lakin daxiletmə etibarlı Telegram Web Giriş kodu kimi görünmür"
 
     IN_VALID_PHNO_PVDED = "üzr istəyirik, lakin daxiletmə etibarlı telefon nömrəsi kimi görünmür"
