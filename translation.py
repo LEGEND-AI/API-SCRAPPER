@@ -14,7 +14,7 @@ by opening https://github.com/LEGEND-AI/API-SCRAPPER and clicking on the Pink Bu
 
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
 
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@LegendBoy_XD"
+    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@tenha055"
 
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
 
