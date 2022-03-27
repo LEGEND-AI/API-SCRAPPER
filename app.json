@@ -1,6 +1,6 @@
 {
-  "name": "Legend Api Bot",
-  "description": "get your APP ID and API HASH inside Telegram",
+  "name": "Ledy Api Bot",
+  "təsvir" : "Telegramdan çıxmadan APP ID və API HASH əldə edin" ,
   "keywords": [
     "telegram",
     "best",
@@ -17,7 +17,7 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string."
+      "description": "@BotFather dən alın!."
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
