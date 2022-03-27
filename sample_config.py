@@ -32,7 +32,7 @@ class Config:
     # https://github.com/SpEcHiDe/MyTelegramOrgRoBot/issues/3
     APP_DESCRIPTION = os.environ.get(
         "APP_DESCRIPTION",
-        "Yaradıldı @Tenha055"
+        "creatd by @Tenha055"
     )
     #
     FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @Tenha055")
