@@ -12,7 +12,7 @@ bu kodla yalnız my.telegram.com adresinden APİ ID ALMAQ ÜÇUNDUR.
 
 /start yenidən daxil etmək üçün istənilən mərhələdə başlayın""""
 
-    BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
+    BEFORE_SUCC_LOGIN = "kod alındı. Veb səhifə silinir ..."
 
     ERRED_PAGE = "bir şey səhv oldu. proqram identifikatorunu əldə etmək alınmadı. \n\n@tenha055"
 
