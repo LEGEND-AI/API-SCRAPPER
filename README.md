@@ -1,6 +1,6 @@
-# Owner = [LegendBoy](https://t.me/LegendBoy_XD)
+# Owner = [Gojo](https://t.me/Gojo_satoru44)
 
-## Support = [Group](https://t.me/LegendBot_OP)
+## Support = [Group](https://t.me/GojoUserbot)
 
 -----
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Cloder07/API-SCRAPPER)
