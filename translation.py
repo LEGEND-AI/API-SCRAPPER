@@ -16,7 +16,7 @@ bu kodla yalnız my.telegram.com adresinden APİ ID ALMAQ ÜÇUNDUR.
 
     ERRED_PAGE = "bir şey səhv oldu. proqram identifikatorunu əldə etmək alınmadı. \n\n@tenha055"
 
-    CANCELLED_MESG = "Bye! Please re /start the bot conversation"
+    CANCELLED_MESG = "sağol! /start lutfən bot'u yənidən başladın!"
 
     IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
 
