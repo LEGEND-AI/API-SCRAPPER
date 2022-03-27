@@ -1,8 +1,8 @@
 class Translation(object):
-    START_TEXT = """Hi Welcome To Api Scrapping Bot!
-Thanks To Using Me
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
+    START_TEXT = """Salam, Ledy APİ'ə xoş gəldin!
 
+my.telegram.org saytından APP-ID əldə etmək üçün Telegram Telefon Nömrənizi daxil edin
+.
 /start at any stage to re-enter your details"""
     AFTER_RECVD_CODE_TEXT = """I see!
 now please send the Telegram code that you received from Telegram!
