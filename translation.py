@@ -20,4 +20,4 @@ bu kodla yalnız my.telegram.com adresinden APİ ID ALMAQ ÜÇUNDUR.
 
     IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
 
-    IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
+    IN_VALID_PHNO_PVDED = "üzr istəyirik, lakin daxiletmə etibarlı telefon nömrəsi kimi görünmür"
