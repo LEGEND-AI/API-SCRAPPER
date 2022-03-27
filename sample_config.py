@@ -35,7 +35,7 @@ class Config:
         "created by @LegendBoy_XD"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @LegendBoy_XD")
+    FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @Tenha055")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
