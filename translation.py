@@ -1,23 +1,24 @@
 class Translation(object):
-    START_TEXT = """Hi Welcome To Api Scrapping Bot!
-Thanks To Using Me
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
+    START_TEXT = """Salam, Ledy APİ'ə xoş gəldin!
+Ledy APİ: Məni istifadə etdiyin üçün təşəkkürlər 
+my.telegram.org saytından APP-ID əldə etmək üçün Telegram Telefon Nömrənizi daxil edin.
+nümünə: `+99450..`
+/start yenidən daxil etmək üçün istənilən mərhələdə başlayın"""
+    AFTER_RECVD_CODE_TEXT = """baxıram!
+indi  zəhmət  olmasa Telegramdan aldığınız Telegram kodunu göndərin  ! 
+bu kodla yalnız my.telegram.com adresinden APİ ID ALMAQ ÜÇUNDUR.
 
-/start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """I see!
-now please send the Telegram code that you received from Telegram!
-this code is only used for the purpose of getting the APP ID from my.telegram.org
-if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/LEGEND-AI/API-SCRAPPER and clicking on the Pink Button
 
-/start at any stage to re-enter your details"""
 
-    BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
 
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@LegendBoy_XD"
+    
 
-    CANCELLED_MESG = "Bye! Please re /start the bot conversation"
+    BEFORE_SUCC_LOGIN = "kod alındı. Veb səhifə silinir ..."
 
-    IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
+    ERRED_PAGE = "bir şey səhv oldu. proqram identifikatorunu əldə etmək alınmadı. \n\n@tenha055"
 
-    IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
+    CANCELLED_MESG = "sağol! /start lutfən bot'u yənidən başladın!"
+
+    IN_VALID_CODE_PVDED = "üzr istəyirik, lakin daxiletmə etibarlı Telegram Web Giriş kodu kimi görünmür"
+
+    IN_VALID_PHNO_PVDED = "üzr istəyirik, lakin daxiletmə etibarlı telefon nömrəsi kimi görünmür"
