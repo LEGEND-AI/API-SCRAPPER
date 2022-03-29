@@ -3,8 +3,8 @@ class Translation(object):
 
 APP İD eldə etmək üçün Telegram nömrənizi daxil edin
 .
-/start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """I see!
+/start yenidən başlatmaq üçün toxunun"""
+    AFTER_RECVD_CODE_TEXT = """Tamam!
 now please send the Telegram code that you received from Telegram!
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 
