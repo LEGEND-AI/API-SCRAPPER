@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hi Welcome To Api Scrapping Bot!
-Thanks To Using Me
+    START_TEXT = """Salam, Ledy AP Scrapper Bot'a xoş gəldin!
+
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
 /start at any stage to re-enter your details"""
