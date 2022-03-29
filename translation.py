@@ -1,20 +1,24 @@
 class Translation(object):
-    START_TEXT = """Hi Welcome To Api Scrapping Bot!
-Thanks To Using Me
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
+    START_TEXT = """Salam, Ledy Api Scrapping Bot'a xoş gəldin!
 
-/start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """I see!
-now please send the Telegram code that you received from Telegram!
-this code is only used for the purpose of getting the APP ID from my.telegram.org
-if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/LEGEND-AI/API-SCRAPPER and clicking on the Pink Button
+APP İD eldə etmək üçün Telegram nömrənizi daxil edin
+.
+/start yenidən başlatmaq üçün toxunun"""
+    AFTER_RECVD_CODE_TEXT = """Tamam!
+indi Telegramdan aldığınız kodu mənə göndərin!
+bu kod yalnız my.telegram.org saytından APP ID əldə etmək üçün istifadə olunur
+.
+/start yenidən başlatmaq üçün toxunun"""
 
-/start at any stage to re-enter your details"""
+
+
+
+
+
 
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
 
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@LegendBoy_XD"
+    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@tenha055"
 
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
 
