@@ -1,10 +1,10 @@
 class Translation(object):
     START_TEXT = """Salam, Ledy AP Scrapper Bot'a xoş gəldin!
+my.telegram.org saytından APP-ID əldə etmək üçün Telegram Telefon Nömrənizi daxil edin.
 
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
-/start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """I see!
+/start yenidən başlamaq üçün basın"""
+    AFTER_RECVD_CODE_TEXT = """yaxsı!
 now please send the Telegram code that you received from Telegram!
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 if you do not trust this bot dev, please host this bot yourself
