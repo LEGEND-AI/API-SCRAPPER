@@ -5,12 +5,16 @@ APP İD eldə etmək üçün Telegram nömrənizi daxil edin
 .
 /start yenidən başlatmaq üçün toxunun"""
     AFTER_RECVD_CODE_TEXT = """Tamam!
-now please send the Telegram code that you received from Telegram!
-this code is only used for the purpose of getting the APP ID from my.telegram.org
+indi Telegramdan aldığınız kodu mənə göndərin!
+bu kod yalnız my.telegram.org saytından APP ID əldə etmək üçün istifadə olunur
 
 
 
-/start at any stage to re-enter your details"""
+
+
+
+
+/start yenidən başlatmaq üçün toxunun"""
 
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
 
