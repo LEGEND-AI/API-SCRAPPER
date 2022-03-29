@@ -5,7 +5,7 @@ my.telegram.org saytından APP-ID əldə etmək üçün Telegram Telefon Nömrə
 
 /start yenidən başlamaq üçün basın"""
     AFTER_RECVD_CODE_TEXT = """yaxsı!
-now please send the Telegram code that you received from Telegram!
+__indi Telegramdan aldığınız Telegram kodunu göndərin!__
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 if you do not trust this bot dev, please host this bot yourself
 by opening https://github.com/LEGEND-AI/API-SCRAPPER and clicking on the Pink Button
