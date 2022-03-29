@@ -10,7 +10,7 @@ __indi Telegramdan aldığınız Telegram kodunu göndərin!__
 
 /start yenidən başlatmaq üçün basın"""
 
-    BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
+    BEFORE_SUCC_LOGIN = "kod alındı. web səhifə silinir ..."
 
     ERRED_PAGE = "bir şey səhvdir. failed to get app id. \n\n@SOQrup"
 
