@@ -5,14 +5,14 @@ my.telegram.org saytından APP-ID əldə etmək üçün Telegram Telefon Nömrə
 
 /start yenidən başlamaq üçün basın"""
     AFTER_RECVD_CODE_TEXT = """yaxsı!
-__indi Telegramdan aldığınız Telegram kodunu göndərin!__
+indi Telegramdan aldığınız Telegram kodunu göndərin!
 **bu kod yalnız my.telegram.org saytından APP ID əldə etmək üçün istifadə olunur!**
 
 /start yenidən başlatmaq üçün basın"""
 
     BEFORE_SUCC_LOGIN = "kod alındı. web səhifə silinir ..."
 
-    ERRED_PAGE = "bir şey səhvdir. failed to get app id. \n\n@SOQrup"
+    ERRED_PAGE = "bir şey səhvdir. Sahiblə əlaqə saxlayın. \n\n@SOQrup"
 
     CANCELLED_MESG = " /start yenidən başlatmaq..."
 
