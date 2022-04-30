@@ -10,7 +10,7 @@ indi Telegramdan aldığınız Telegram kodunu göndəririn
 
 ✦ 𝗬𝗲𝗻𝗶𝗱𝗲𝗻 𝗯𝗮𝘀̧𝗹𝗮𝗺𝗮𝗾 𝘂̈𝗰̧𝘂̈𝗻 /start 𝗘𝗺𝗿𝗶𝗻𝗲 𝘁𝗼𝘅𝘂𝗻𝘂𝗻.""" 
 
-    BEFORE_SUCC_LOGIN = k𝚘𝚍 𝙰𝚕ı𝚗𝚍ı.𝚠𝚎𝚋 𝚜𝚎𝚢𝚒𝚏𝚎 𝚜𝚒𝚕𝚒𝚗𝚒𝚛 ..."
+    BEFORE_SUCC_LOGIN = "✓ kod alındi web seyife silinir ..."
 
     ERRED_PAGE = "bir şey səhvdir, Xaiş edirik 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐐𝐫𝐮𝐩𝐮𝐧𝐚 𝐲𝐚𝐳ı𝐧{}. \n\n@SOQrup"
 
