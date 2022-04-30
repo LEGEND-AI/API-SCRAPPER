@@ -1,4 +1,4 @@
-myass Translation(object):
+class Translation(object):
     START_TEXT = """👋 𝐒𝐚𝐥𝐚𝐦, 𝐋𝐞𝐝𝐲 𝐀𝐩𝐩 𝐒𝐜𝐫𝐚𝐩𝐩𝐞𝐫 𝐁𝐨𝐭'𝐚 𝐱𝐨𝐬 𝐠𝐞𝐥𝐝𝐢𝐧!
 ✦ my.telegram.org saytından 𝐀𝐏𝐏-𝐈𝐃 əldə etmək üçün Telegram Telefon Nömrənizi daxil edin.
 
